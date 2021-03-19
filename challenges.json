@@ -1,0 +1,12 @@
+[
+    {
+        "type":"body",
+        "description":"pisque devagar",
+        "amount": 60
+    },
+    {
+        "type":"body",
+        "description":"fume um cigarro",
+        "amount": 8
+    }
+]
